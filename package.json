@@ -1,0 +1,22 @@
+{
+  "name": "phaser-slot",
+  "version": "1.0.0",
+  "description": "phaser slot prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motosharpley/phaser-slot.git"
+  },
+  "author": "Bryan Sharpley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motosharpley/phaser-slot/issues"
+  },
+  "homepage": "https://github.com/motosharpley/phaser-slot#readme",
+  "dependencies": {
+    "phaser": "^3.11.0"
+  }
+}
