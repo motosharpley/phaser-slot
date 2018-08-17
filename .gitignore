@@ -1,1 +1,6 @@
-node_modules
+# Vendors
+node_modules/
+
+# Build
+build/
+/npm-debug.log
